@@ -1,0 +1,576 @@
+﻿Token,Tag,Favorito
+Depth of Field,Cameras,Yes
+Shot with TelePhoto Lens,Cameras,No
+Fisheye,Cameras,No
+Tiltshift,Cameras,No
+Bokeh,Cameras,No
+Macro Photo,Cameras,Yes
+Motion Blur,Cameras,No
+Soft Focus,Cameras,No
+Establishing Shot Composition,Composição,Yes
+Aerial Drone Photo,Composição,No
+Shot with DSLR,Cameras,No
+Film Photo,Cameras,No
+GoPro Photo,Cameras,Yes
+Infrared Photo,Cameras,No
+Polaroid Photo,Cameras,No
+Thermal Photo,Cameras,No
+Undewater Photo,Cameras,No
+X-Ray,Cameras,No
+Low Angle,Composição,Yes
+High Angle,Composição,No
+Wide Angle,Composição,Yes
+Bird's-Eye-View,Composição,No
+Vertical View,Composição,No
+Satellite View,Composição,No
+Street View,Composição,No
+Ultraviolet Photo,Cameras,No
+Nightvision,Cameras,No
+Lens Flare,Cameras,No
+First Person,Composição,Yes
+POV,Composição,No
+Shot with Analog,Cameras,No
+Close-up,Composição,No
+Distant View,Composição,No
+Front View,Composição,No
+Panoramic,Composição,No
+Side View,Composição,No
+Top-down,Composição,No
+Upside-down,Composição,No
+Studio Lighting,Luzes,No
+Ambient Light,Luzes,No
+Backlight,Luzes,Yes
+Cold Blue Light,Luzes,No
+Cold white light,Luzes,No
+Diffused Light,Luzes,No
+Dynamic Light,Luzes,No
+Golden Hour,Luzes,Yes
+Hard Light,Luzes,No
+Moonlight,Luzes,No
+Natural Light,Luzes,No
+Neon Lights,Luzes,No
+Side Lighting,Luzes,No
+Soft Light,Luzes,No
+Soft Shadow,Luzes,No
+Spot Light,Luzes,No
+Volumetric Light,Luzes,No
+Warm Light,Luzes,No
+Artificial Light,Luzes,No
+Adventurous,Mood,Yes
+Angry,Mood,No
+Appetizing,Mood,No
+Bored,Mood,No
+Calm,Mood,No
+Charming,Mood,No
+Confidence,Mood,No
+Curious,Mood,Yes
+Delicious,Mood,No
+Determination,Mood,No
+Dreamy,Mood,No
+Elegant,Mood,Yes
+Enchanting,Mood,No
+Enigmatic,Mood,No
+Ethereal,Mood,Yes
+Exquisite,Mood,Yes
+Fearless,Mood,No
+Glamouros,Mood,No
+Happy,Mood,No
+Humorous,Mood,No
+Imaginative,Mood,No
+Joyful,Mood,No
+Majestic,Mood,No
+Melancholic,Mood,No
+Mesmerizing,Mood,Yes
+Mysterious,Mood,No
+Neat,Mood,Yes
+Peaceful,Mood,No
+Playful,Mood,No
+Quirky,Mood,No
+Radiant,Mood,No
+Romantic,Mood,No
+Sad,Mood,No
+Serene,Mood,No
+Sophisticated,Mood,No
+Weird,Mood,Yes
+Whimsical,Mood,No
+Wild,Mood,No
+Zen,Mood,No
+Bronze,Materiais,No
+Carbon Fiber,Materiais,No
+Ceramic,Materiais,No
+Cloth,Materiais,No
+Concrete,Materiais,No
+Crystal,Materiais,No
+Diamond,Materiais,No
+Esmerald,Materiais,No
+Fire,Materiais,No
+Fur,Materiais,No
+Gold,Materiais,No
+Hardsurface,Materiais,No
+Ice,Materiais,No
+Iron,Materiais,No
+Leather,Materiais,No
+Made of Glass,Materiais,No
+Marble,Materiais,No
+Metal,Materiais,No
+Obsidian,Materiais,No
+Paper,Materiais,No
+Plastic,Materiais,No
+Rubber,Materiais,No
+Ruby,Materiais,No
+Sand,Materiais,No
+Silicone,Materiais,No
+Silver,Materiais,No
+Stone,Materiais,No
+Titanium,Materiais,No
+Turquoise,Materiais,No
+Velvet,Materiais,No
+Water,Materiais,No
+Wax,Materiais,No
+Wood,Materiais,No
+Wool,Materiais,No
+Abandoned amusement park,Locais,No
+Abandoned building,Locais,No
+Alien planet landscape,Locais,No
+Ancient ruins,Locais,No
+Art gallery,Locais,No
+Avatar-inspired Pandora landscape,Locais,No
+Beach,Locais,No
+Blade Runner-inspired urban sprawl,Locais,No
+Blooming botanical garden,Locais,No
+Bohemian street market,Locais,No
+Chic rooftop bar cityscape backdrop,Locais,No
+Clean white background,Locais,No
+Colorful fairground,Locais,No
+Contemporary dance studio,Locais,No
+Cozy coffee shop,Locais,No
+Cyberpunk cityscape,Locais,No
+Decadent tea room,Locais,No
+Doctor Who-inspired TARDIS interior,Locais,No
+Dystopian mega-city,Locais,No
+Elegant ballroom,Locais,No
+Enchanted forest,Locais,No
+Ethereal greenhouse,Locais,No
+Exotic Moroccan riad,Locais,No
+Flower field,Locais,No
+Futuristic eco-city,Locais,No
+Futuristic space station,Locais,No
+Futuristic sports arena,Locais,No
+Galactic spaceport,Locais,No
+Glamorous dressing room,Locais,No
+Graffiti-covered alleyway,Locais,No
+Grand museum hall,Locais,No
+Historic castle,Locais,No
+Historic Victorian mansion,Locais,No
+Hogwarts-inspired castle,Locais,No
+Ice-skating rink,Locais,No
+Inception-inspired dream,Locais,No
+Industrial loft space,Locais,No
+Industrial warehouse,Locais,No
+Lavish palace,Locais,No
+Lighthouse by the sea,Locais,No
+Local park,Locais,No
+Luxurious hotel suite,Locais,No
+Matrix-inspired simulation,Locais,No
+Middle-earth inspired location,Locais,No
+Minimalist art installation,Locais,No
+Modern indoor setting,Locais,No
+Modern office building,Locais,No
+Moody forest clearing,Locais,No
+Mountain landscape,Locais,No
+Neon-lit arcade,Locais,No
+Nightclub setting,Locais,No
+Nostalgic 8-bit gaming world,Locais,No
+Old library,Locais,No
+Open desert,Locais,No
+Ornate Turkish bathhouse,Locais,No
+Photo Studio,Locais,No
+Post-apocalyptic wasteland,Locais,No
+Retro diner,Locais,No
+Retro laundromat,Locais,No
+Rolling countryside,Locais,No
+Rooftop terrace,Locais,No
+Rustic barn,Locais,No
+Rustic farmhouse,Locais,No
+Secluded waterfall,Locais,No
+Serene lakeside,Locais,No
+Serene zen garden,Locais,No
+Snowy landscape,Locais,No
+Sophisticated yacht,Locais,No
+Sports stadium,Locais,No
+Steampunk airship hangar,Locais,No
+Street Environment,Locais,No
+Train Station,Locais,No
+Tron-inspired digital realm,Locais,No
+Tropical jungle,Locais,No
+Underground speakeasy,Locais,No
+Underwater scene,Locais,No
+Urban City Street,Locais,No
+Urban outdoor setting,Locais,No
+Vineyard,Locais,No
+Vintage train car,Locais,No
+Virtual reality gaming arena,Locais,No
+Whimsical circus tent,Locais,No
+Colorful,Mood,No
+Cozy,Mood,No
+Dramatic,Mood,No
+Stunning,Mood,Yes
+Timeless,Mood,Yes
+Soft Pastel Tones,Cores,No
+Mute Colors,Cores,No
+Redscale Coloring,Cores,No
+Teal and Orange,Cores,No
+Monochrome,Cores,No
+Duotone,Cores,No
+Grayscale,Cores,No
+Analogous Colors,Cores,No
+Complementary Colors,Cores,No
+Retro Color Palette,Cores,No
+Alien Architecture,Arquitetura,No
+Art Deco Architecture,Arquitetura,No
+Art Nouveau Architecture,Arquitetura,No
+Artificial Intelligence Architecture,Arquitetura,No
+Asteroid Base Architecture,Arquitetura,No
+Baroque Architecture,Arquitetura,No
+Bauhaus Architecture,Arquitetura,No
+Beaux-Arts Architecture,Arquitetura,No
+Bioengineered Architecture,Arquitetura,No
+Biomimetic Architecture,Arquitetura,No
+Blobitecture,Arquitetura,No
+Brutalist Architecture,Arquitetura,No
+Byzantine Architecture,Arquitetura,No
+Candyland Architecture,Arquitetura,No
+Carbon-Neutral Architecture,Arquitetura,No
+Colonial Architecture,Arquitetura,No
+Constructivist Architecture,Arquitetura,No
+Cybernetic Architecture,Arquitetura,No
+Cyberspace Architecture,Arquitetura,No
+Digital Architecture,Arquitetura,No
+Deconstructivist Architecture,Arquitetura,No
+Eco-Friendly Architecture,Arquitetura,No
+Egyptian Revival Architecture,Arquitetura,No
+Exoplanet Colony Architecture,Arquitetura,No
+Expressionist Architecture,Arquitetura,No
+Floating City Architecture,Arquitetura,No
+Folding Architecture,Arquitetura,No
+Generative Design Architecture,Arquitetura,No
+Georgian Architecture,Arquitetura,No
+Gothic Architecture,Arquitetura,No
+Greek Revival Architecture,Arquitetura,No
+Green Architecture,Arquitetura,No
+Hallucinogenic Architecture,Arquitetura,No
+High-Tech Architecture,Arquitetura,No
+Holographic Architecture,Arquitetura,No
+International Style Architecture,Arquitetura,No
+Interstellar Architecture,Arquitetura,No
+Islamic Architecture,Arquitetura,No
+Italianate Architecture,Arquitetura,No
+Jacobean Architecture,Arquitetura,No
+Japanese Architecture,Arquitetura,No
+Kinetic Architecture,Arquitetura,No
+Living Architecture,Arquitetura,No
+Lunar Colony Architecture,Arquitetura,No
+Martian Architecture,Arquitetura,No
+Megastructure Architecture,Arquitetura,No
+Metamorphic Architecture,Arquitetura,No
+Microarchitecture,Arquitetura,No
+Modernist Architecture,Arquitetura,No
+Modular Architecture,Arquitetura,No
+Nanotechnology Architecture,Arquitetura,No
+Neo-Gothic Architecture,Arquitetura,No
+Neo-Renaissance Architecture,Arquitetura,No
+Neoclassical Architecture,Arquitetura,No
+Net-Zero Energy Architecture,Arquitetura,No
+Orbital Habitat Architecture,Arquitetura,No
+Organic Architecture,Arquitetura,No
+Origami-Inspired Architecture,Arquitetura,No
+Parametric Architecture,Arquitetura,No
+Performative Architecture,Arquitetura,No
+Post-Apocalyptic Architecture,Arquitetura,No
+Postmodern Architecture,Arquitetura,No
+Prairie Style Architecture,Arquitetura,No
+Psychedelic Architecture,Arquitetura,No
+Queen Anne Architecture,Arquitetura,No
+Quicksand Architecture,Arquitetura,No
+Renaissance Architecture,Arquitetura,No
+Robotic Architecture,Arquitetura,No
+Romanesque Architecture,Arquitetura,No
+Russian Revival Architecture,Arquitetura,No
+Self-Healing Architecture,Arquitetura,No
+Smart Architecture,Arquitetura,No
+Solarpunk Architecture,Arquitetura,No
+Space Elevator Architecture,Arquitetura,No
+Space Habitat Architecture,Arquitetura,No
+Spanish Colonial Architecture,Arquitetura,No
+Streamline Moderne Architecture,Arquitetura,No
+Subterranean Architecture,Arquitetura,No
+Sustainable Architecture,Arquitetura,No
+Time Traveler's Architecture,Arquitetura,No
+Translucent Architecture,Arquitetura,No
+Transparent Architecture,Arquitetura,No
+Tudor Revival Architecture,Arquitetura,No
+Underwater City Architecture,Arquitetura,No
+Usonian Architecture,Arquitetura,No
+Vertical Farming Architecture,Arquitetura,No
+Victorian Architecture,Arquitetura,No
+Virtual Reality Architecture,Arquitetura,No
+Virtual World Architecture,Arquitetura,No
+Warp Drive Architecture,Arquitetura,No
+Whimsy Wonderland Architecture,Arquitetura,No
+Xenomorphic Architecture,Arquitetura,No
+Zoetropic Architecture,Arquitetura,No
+Activewear Clothing,Fashion,No
+Androgynous Clothing,Fashion,No
+Artistic Clothing,Fashion,No
+Avant-garde Clothing,Fashion,No
+Bohemian Clothing,Fashion,No
+Boho-chic Clothing,Fashion,No
+Business Attire,Fashion,No
+Casual Clothing,Fashion,No
+Cosplay Clothing,Fashion,No
+Cyberpunk Clothing,Fashion,No
+Designer Clothing,Fashion,No
+Disco-era Clothing,Fashion,No
+Emo Clothing,Fashion,No
+Ethnic Clothing,Fashion,No
+Festival Clothing,Fashion,No
+Flapper-style Clothing,Fashion,No
+Formal Clothing,Fashion,No
+Gothic Clothing,Fashion,No
+Grunge Clothing,Fashion,No
+Harajuku Clothing,Fashion,No
+High-Fashion Clothing,Fashion,No
+Hip-hop Clothing,Fashion,No
+Hipster Clothing,Fashion,No
+Kawaii Clothing,Fashion,No
+Luxury Clothing,Fashion,No
+Military-inspired Clothing,Fashion,No
+Minimalist Clothing,Fashion,No
+Nautical Clothing,Fashion,No
+Neoclassical Clothing,Fashion,No
+Preppy Clothing,Fashion,No
+Punk Rock Clothing,Fashion,No
+Regency-era Clothing,Fashion,No
+Resort Wear Clothing,Fashion,No
+Retro-futuristic Clothing,Fashion,No
+Rockabilly Clothing,Fashion,No
+Romantic Clothing,Fashion,No
+Safari-inspired Clothing,Fashion,No
+Sci-fi Clothing,Fashion,No
+Sportswear Clothing,Fashion,No
+Steampunk Clothing,Fashion,No
+Street Goth Clothing,Fashion,No
+Sustainable Clothing,Fashion,No
+Swinging Sixties Clothing,Fashion,No
+Techwear Clothing,Fashion,No
+Urban Chic Clothing,Fashion,No
+Victorian-era Clothing,Fashion,No
+Vintage Clothing,Fashion,No
+Western Clothing,Fashion,No
+Y2K Clothing,Fashion,No
+Athleisure Clothing,Fashion,No
+Collegiate,Fashion,No
+Glam Rock,Fashion,No
+Normcore,Fashion,No
+Rave Wear,Fashion,No
+Workwear,Fashion,No
+Diagonal Composition,Composição,No
+Juxtaposition,Composição,No
+Extreme Close-Up,Composição,No
+Split-Perspective,Composição,No
+Neo-Vintage Fusion,Fashion,No
+Solarpunk Chic,Fashion,No
+Data Aesthetic Clothing,Fashion,No
+Oversized clothing,Fashion,No
+Cottagecore Clothing,Fashion,No
+Beachwear Clothing,Fashion,No
+Streetwear Clothing,Fashion,No
+Dandy Style Clothing,Fashion,No
+Hypebeast Clothing,Fashion,No
+Effortless Chic clothing,Fashion,No
+E-Girl Style Clothing,Fashion,No
+Gender-fluid Fashion,Fashion,No
+Hippie Clothing,Fashion,No
+E-Boy Style Clothing,Fashion,No
+Japanese Street Fashion,Fashion,No
+Dark Academia Clothing,Fashion,No
+Backlit Silhouette,Luzes,No
+Low Key,Cameras,No
+Vignette,Cameras,No
+1990s Documentary Film,Cameras,No
+1940s retro sci-fi film,Cameras,No
+Ektachrome film still,Cameras,No
+35mm Cinematic Shot,Cameras,No
+Kodachrome film,Cameras,No
+Documentary film,Cameras,No
+Technicolor film,Cameras,No
+AGFA vista film,Cameras,No
+Fujifilm Superia 400,Cameras,No
+Lomography Color Negative 800,Cameras,No
+CineStill 800T,Cameras,No
+Fujichrome Velvia 50,Cameras,No
+Kodak Ektar 100,Cameras,No
+Kodak Portra 400,Cameras,No
+Kodak Gold 200,Cameras,No
+Insta360,Cameras,No
+Grainy Film Negative,Cameras,No
+Magical film still,Cameras,No
+Shot From Behind,Composição,No
+Tilted Angle Shot,Composição,No
+Medium Side-angle Shot,Composição,No
+Centered View,Composição,No
+Eye-Level Composition,Composição,No
+Off-Center,Composição,No
+Medium-Full Shot,Composição,No
+Full-Body Shot,Composição,No
+Isolated on White,Cores,No
+[Blue] Side Lighting,Luzes,No
+Natural Brown Tones,Cores,No
+'Muted Naturals' coloring,Cores,No
+Scarlet/Cerulean,Cores,No
+Earthy palette,Cores,No
+Jewel-toned palette,Cores,No
+Isolated on Black,Cores,No
+Burnt Orange and Periwinkle Azure,Cores,No
+Paisley Maxi,Cores,No
+Floral Maxi,Cores,No
+Tropical Brights,Cores,No
+Soft Blues and Yellows,Cores,No
+Moody Dark Tones,Cores,No
+Smoky Grays,Cores,No
+Cool Pastels,Cores,No
+Vivid Pop Colors,Cores,No
+Sepia Tones,Cores,No
+Forest Greens,Cores,No
+Cyberpunk Neon,Cores,No
+Sunset Hues,Cores,No
+Pink-Purple-Blue,Cores,No
+Navy and Orange,Cores,No
+Indigo and Lavender,Cores,No
+Light Blue and Crimson Pink,Cores,No
+Marigold and Dark Brown,Cores,No
+Purple and Green,Cores,No
+Blue,Cores,No
+Red,Cores,No
+Yellow,Cores,No
+Blue and Brown,Cores,No
+Brown-Tan-Orange,Cores,No
+Brown-Mustard-Yellow-Green,Cores,No
+Plum-Purple-Viola-Seafoam-Green,Cores,No
+Blue-Red-Yellow,Cores,No
+Muted Yellow,Cores,No
+Green and Gray,Cores,No
+Clear Sky,Mood,No
+Sunrise,Mood,No
+Sunset,Mood,No
+Morning Mist,Mood,No
+Partly Cloudy,Mood,No
+Rainy,Mood,No
+Snowy,Mood,No
+Cloudy,Mood,No
+Foggy,Mood,No
+Hazey,Mood,No
+Twilight,Mood,No
+Night,Mood,No
+Misty Atmosphere,Mood,No
+Evening,Mood,No
+Spring,Mood,No
+Summer,Mood,No
+Winter,Mood,No
+Linen,Materiais,No
+Nylon,Materiais,No
+Hemp,Materiais,No
+Copper,Materiais,No
+Mithril,Materiais,No
+Quartz,Materiais,No
+Aluminium,Materiais,No
+Bamboo,Materiais,No
+Fiberglass,Materiais,No
+Neoprene,Materiais,No
+Icepunk Style,Estilos,No
+Gen Z Maximalism,Estilos,No
+Goofcore Style,Estilos,No
+Celtic Aesthetic,Estilos,No
+Cabincore Aesthetic,Estilos,No
+Barbiecore Aesthetic,Estilos,No
+Bastardcore Aesthetic,Estilos,No
+Australian Outback Aesthetic,Estilos,No
+Vintage Style,Estilos,No
+Victorian Style,Estilos,No
+Vibrant,Modificador,No
+Utopian Style,Estilos,No
+Urban Style,Estilos,No
+Synthwave,Estilos,No
+Surrealism,Estilos,No
+Street Art,Estilos,No
+Stained glass,Estilos,No
+Sleek,Modificador,No
+Satirical Style,Estilos,No
+Retro Futurism,Estilos,No
+Retro Style,Estilos,No
+Renaissance,Estilos,No
+Realistic,Modificador,No
+Postmodern,Estilos,No
+Neo-Classical,Estilos,No
+Naturalistic,Estilos,No
+Minimalistic,Estilos,No
+Iridescent,Estilos,No
+Impressionistic,Estilos,No
+Holographic,Estilos,No
+High-tech,Estilos,No
+Grunge,Estilos,No
+Graffiti,Estilos,No
+Glitch,Estilos,No
+Fractal,Estilos,No
+Folk art Style,Estilos,No
+Fantasy,Estilos,No
+Dadaism,Estilos,No
+Cubism,Estilos,No
+Cosmic Style,Estilos,No
+Conceptual Style,Estilos,No
+Collage,Estilos,No
+Classic Style,Estilos,No
+Byzantine Style,Estilos,No
+Baroque Style,Estilos,No
+Acid,Estilos,No
+Fauvism,Estilos,No
+Fine Art,Estilos,No
+Geometric,Estilos,No
+Contemporary,Estilos,No
+Kaleidoscopic,Estilos,No
+Modern,Estilos,No
+Pop Art,Estilos,No
+Psychedelic,Estilos,No
+Rustic,Estilos,No
+Neumorphism,Estilos,No
+Glassmorphism,Estilos,No
+Abstract,Estilos,No
+Art Deco,Estilos,No
+Elfpunk,Estilos,No
+Biofuturism,Estilos,No
+Technofuturism,Estilos,No
+Pastelfuturism,Estilos,No
+Witchcore,Estilos,No
+Solarpunk,Estilos,No
+Dieselpunk,Estilos,No
+Avant-garde,Estilos,No
+Cybergrunge,Estilos,No
+Vaporwave,Estilos,No
+Spy Fiction,Estilos,No
+Neo-Tokyo,Estilos,No
+Steampunk,Estilos,No
+Cyberpunk,Estilos,No
+Scifi,Estilos,No
+Futuristic,Estilos,No
+Industrial Aesthetic,Estilos,No
+Autumn Aesthetic,Estilos,No
+Artificial Nature Aesthetic,Estilos,No
+Arcade Aesthetic,Estilos,No
+Animecore Aesthetic,Estilos,No
+Adventurecore,Estilos,No
+Ancient Egypt Aesthetic,Estilos,No
+Alien Aesthetic,Estilos,No
+Zoomorphic,Estilos,No
+Watercolor,Estilos,No
+Afrofuturism,Estilos,No
+Hyperrealistic,Modificador,No
