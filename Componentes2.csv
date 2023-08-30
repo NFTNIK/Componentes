@@ -1,0 +1,576 @@
+Token,Tag
+Depth of Field,Cameras
+Shot with TelePhoto Lens,Cameras
+Fisheye,Cameras
+Tiltshift,Cameras
+Bokeh,Cameras
+Macro Photo,Cameras
+Motion Blur,Cameras
+Soft Focus,Cameras
+Establishing Shot Composition,Composição
+Aerial Drone Photo,Composição
+Shot with DSLR,Cameras
+Film Photo,Cameras
+GoPro Photo,Cameras
+Infrared Photo,Cameras
+Polaroid Photo,Cameras
+Thermal Photo,Cameras
+Undewater Photo,Cameras
+X-Ray,Cameras
+Low Angle,Composição
+High Angle,Composição
+Wide Angle,Composição
+Bird's-Eye-View,Composição
+Vertical View,Composição
+Satellite View,Composição
+Street View,Composição
+Ultraviolet Photo,Cameras
+Nightvision,Cameras
+Lens Flare,Cameras
+First Person,Composição
+POV,Composição
+Shot with Analog,Cameras
+Close-up,Composição
+Distant View,Composição
+Front View,Composição
+Panoramic,Composição
+Side View,Composição
+Top-down,Composição
+Upside-down,Composição
+Studio Lighting,Luzes
+Ambient Light,Luzes
+Backlight,Luzes
+Cold Blue Light,Luzes
+Cold white light,Luzes
+Diffused Light,Luzes
+Dynamic Light,Luzes
+Golden Hour,Luzes
+Hard Light,Luzes
+Moonlight,Luzes
+Natural Light,Luzes
+Neon Lights,Luzes
+Side Lighting,Luzes
+Soft Light,Luzes
+Soft Shadow,Luzes
+Spot Light,Luzes
+Volumetric Light,Luzes
+Warm Light,Luzes
+Artificial Light,Luzes
+Adventurous,Mood
+Angry,Mood
+Appetizing,Mood
+Bored,Mood
+Calm,Mood
+Charming,Mood
+Confidence,Mood
+Curious,Mood
+Delicious,Mood
+Determination,Mood
+Dreamy,Mood
+Elegant,Mood
+Enchanting,Mood
+Enigmatic,Mood
+Ethereal,Mood
+Exquisite,Mood
+Fearless,Mood
+Glamouros,Mood
+Happy,Mood
+Humorous,Mood
+Imaginative,Mood
+Joyful,Mood
+Majestic,Mood
+Melancholic,Mood
+Mesmerizing,Mood
+Mysterious,Mood
+Neat,Mood
+Peaceful,Mood
+Playful,Mood
+Quirky,Mood
+Radiant,Mood
+Romantic,Mood
+Sad,Mood
+Serene,Mood
+Sophisticated,Mood
+Weird,Mood
+Whimsical,Mood
+Wild,Mood
+Zen,Mood
+Bronze,Materiais
+Carbon Fiber,Materiais
+Ceramic,Materiais
+Cloth,Materiais
+Concrete,Materiais
+Crystal,Materiais
+Diamond,Materiais
+Esmerald,Materiais
+Fire,Materiais
+Fur,Materiais
+Gold,Materiais
+Hardsurface,Materiais
+Ice,Materiais
+Iron,Materiais
+Leather,Materiais
+Made of Glass,Materiais
+Marble,Materiais
+Metal,Materiais
+Obsidian,Materiais
+Paper,Materiais
+Plastic,Materiais
+Rubber,Materiais
+Ruby,Materiais
+Sand,Materiais
+Silicone,Materiais
+Silver,Materiais
+Stone,Materiais
+Titanium,Materiais
+Turquoise,Materiais
+Velvet,Materiais
+Water,Materiais
+Wax,Materiais
+Wood,Materiais
+Wool,Materiais
+Abandoned amusement park,Locais
+Abandoned building,Locais
+Alien planet landscape,Locais
+Ancient ruins,Locais
+Art gallery,Locais
+Avatar-inspired Pandora landscape,Locais
+Beach,Locais
+Blade Runner-inspired urban sprawl,Locais
+Blooming botanical garden,Locais
+Bohemian street market,Locais
+Chic rooftop bar cityscape backdrop,Locais
+Clean white background,Locais
+Colorful fairground,Locais
+Contemporary dance studio,Locais
+Cozy coffee shop,Locais
+Cyberpunk cityscape,Locais
+Decadent tea room,Locais
+Doctor Who-inspired TARDIS interior,Locais
+Dystopian mega-city,Locais
+Elegant ballroom,Locais
+Enchanted forest,Locais
+Ethereal greenhouse,Locais
+Exotic Moroccan riad,Locais
+Flower field,Locais
+Futuristic eco-city,Locais
+Futuristic space station,Locais
+Futuristic sports arena,Locais
+Galactic spaceport,Locais
+Glamorous dressing room,Locais
+Graffiti-covered alleyway,Locais
+Grand museum hall,Locais
+Historic castle,Locais
+Historic Victorian mansion,Locais
+Hogwarts-inspired castle,Locais
+Ice-skating rink,Locais
+Inception-inspired dream,Locais
+Industrial loft space,Locais
+Industrial warehouse,Locais
+Lavish palace,Locais
+Lighthouse by the sea,Locais
+Local park,Locais
+Luxurious hotel suite,Locais
+Matrix-inspired simulation,Locais
+Middle-earth inspired location,Locais
+Minimalist art installation,Locais
+Modern indoor setting,Locais
+Modern office building,Locais
+Moody forest clearing,Locais
+Mountain landscape,Locais
+Neon-lit arcade,Locais
+Nightclub setting,Locais
+Nostalgic 8-bit gaming world,Locais
+Old library,Locais
+Open desert,Locais
+Ornate Turkish bathhouse,Locais
+Photo Studio,Locais
+Post-apocalyptic wasteland,Locais
+Retro diner,Locais
+Retro laundromat,Locais
+Rolling countryside,Locais
+Rooftop terrace,Locais
+Rustic barn,Locais
+Rustic farmhouse,Locais
+Secluded waterfall,Locais
+Serene lakeside,Locais
+Serene zen garden,Locais
+Snowy landscape,Locais
+Sophisticated yacht,Locais
+Sports stadium,Locais
+Steampunk airship hangar,Locais
+Street Environment,Locais
+Train Station,Locais
+Tron-inspired digital realm,Locais
+Tropical jungle,Locais
+Underground speakeasy,Locais
+Underwater scene,Locais
+Urban City Street,Locais
+Urban outdoor setting,Locais
+Vineyard,Locais
+Vintage train car,Locais
+Virtual reality gaming arena,Locais
+Whimsical circus tent,Locais
+Colorful,Mood
+Cozy,Mood
+Dramatic,Mood
+Stunning,Mood
+Timeless,Mood
+Soft Pastel Tones,Cores
+Mute Colors,Cores
+Redscale Coloring,Cores
+Teal and Orange,Cores
+Monochrome,Cores
+Duotone,Cores
+Grayscale,Cores
+Analogous Colors,Cores
+Complementary Colors,Cores
+Retro Color Palette,Cores
+Alien Architecture,Arquitetura
+Art Deco Architecture,Arquitetura
+Art Nouveau Architecture,Arquitetura
+Artificial Intelligence Architecture,Arquitetura
+Asteroid Base Architecture,Arquitetura
+Baroque Architecture,Arquitetura
+Bauhaus Architecture,Arquitetura
+Beaux-Arts Architecture,Arquitetura
+Bioengineered Architecture,Arquitetura
+Biomimetic Architecture,Arquitetura
+Blobitecture,Arquitetura
+Brutalist Architecture,Arquitetura
+Byzantine Architecture,Arquitetura
+Candyland Architecture,Arquitetura
+Carbon-Neutral Architecture,Arquitetura
+Colonial Architecture,Arquitetura
+Constructivist Architecture,Arquitetura
+Cybernetic Architecture,Arquitetura
+Cyberspace Architecture,Arquitetura
+Digital Architecture,Arquitetura
+Deconstructivist Architecture,Arquitetura
+Eco-Friendly Architecture,Arquitetura
+Egyptian Revival Architecture,Arquitetura
+Exoplanet Colony Architecture,Arquitetura
+Expressionist Architecture,Arquitetura
+Floating City Architecture,Arquitetura
+Folding Architecture,Arquitetura
+Generative Design Architecture,Arquitetura
+Georgian Architecture,Arquitetura
+Gothic Architecture,Arquitetura
+Greek Revival Architecture,Arquitetura
+Green Architecture,Arquitetura
+Hallucinogenic Architecture,Arquitetura
+High-Tech Architecture,Arquitetura
+Holographic Architecture,Arquitetura
+International Style Architecture,Arquitetura
+Interstellar Architecture,Arquitetura
+Islamic Architecture,Arquitetura
+Italianate Architecture,Arquitetura
+Jacobean Architecture,Arquitetura
+Japanese Architecture,Arquitetura
+Kinetic Architecture,Arquitetura
+Living Architecture,Arquitetura
+Lunar Colony Architecture,Arquitetura
+Martian Architecture,Arquitetura
+Megastructure Architecture,Arquitetura
+Metamorphic Architecture,Arquitetura
+Microarchitecture,Arquitetura
+Modernist Architecture,Arquitetura
+Modular Architecture,Arquitetura
+Nanotechnology Architecture,Arquitetura
+Neo-Gothic Architecture,Arquitetura
+Neo-Renaissance Architecture,Arquitetura
+Neoclassical Architecture,Arquitetura
+Net-Zero Energy Architecture,Arquitetura
+Orbital Habitat Architecture,Arquitetura
+Organic Architecture,Arquitetura
+Origami-Inspired Architecture,Arquitetura
+Parametric Architecture,Arquitetura
+Performative Architecture,Arquitetura
+Post-Apocalyptic Architecture,Arquitetura
+Postmodern Architecture,Arquitetura
+Prairie Style Architecture,Arquitetura
+Psychedelic Architecture,Arquitetura
+Queen Anne Architecture,Arquitetura
+Quicksand Architecture,Arquitetura
+Renaissance Architecture,Arquitetura
+Robotic Architecture,Arquitetura
+Romanesque Architecture,Arquitetura
+Russian Revival Architecture,Arquitetura
+Self-Healing Architecture,Arquitetura
+Smart Architecture,Arquitetura
+Solarpunk Architecture,Arquitetura
+Space Elevator Architecture,Arquitetura
+Space Habitat Architecture,Arquitetura
+Spanish Colonial Architecture,Arquitetura
+Streamline Moderne Architecture,Arquitetura
+Subterranean Architecture,Arquitetura
+Sustainable Architecture,Arquitetura
+Time Traveler's Architecture,Arquitetura
+Translucent Architecture,Arquitetura
+Transparent Architecture,Arquitetura
+Tudor Revival Architecture,Arquitetura
+Underwater City Architecture,Arquitetura
+Usonian Architecture,Arquitetura
+Vertical Farming Architecture,Arquitetura
+Victorian Architecture,Arquitetura
+Virtual Reality Architecture,Arquitetura
+Virtual World Architecture,Arquitetura
+Warp Drive Architecture,Arquitetura
+Whimsy Wonderland Architecture,Arquitetura
+Xenomorphic Architecture,Arquitetura
+Zoetropic Architecture,Arquitetura
+Activewear Clothing,Fashion
+Androgynous Clothing,Fashion
+Artistic Clothing,Fashion
+Avant-garde Clothing,Fashion
+Bohemian Clothing,Fashion
+Boho-chic Clothing,Fashion
+Business Attire,Fashion
+Casual Clothing,Fashion
+Cosplay Clothing,Fashion
+Cyberpunk Clothing,Fashion
+Designer Clothing,Fashion
+Disco-era Clothing,Fashion
+Emo Clothing,Fashion
+Ethnic Clothing,Fashion
+Festival Clothing,Fashion
+Flapper-style Clothing,Fashion
+Formal Clothing,Fashion
+Gothic Clothing,Fashion
+Grunge Clothing,Fashion
+Harajuku Clothing,Fashion
+High-Fashion Clothing,Fashion
+Hip-hop Clothing,Fashion
+Hipster Clothing,Fashion
+Kawaii Clothing,Fashion
+Luxury Clothing,Fashion
+Military-inspired Clothing,Fashion
+Minimalist Clothing,Fashion
+Nautical Clothing,Fashion
+Neoclassical Clothing,Fashion
+Preppy Clothing,Fashion
+Punk Rock Clothing,Fashion
+Regency-era Clothing,Fashion
+Resort Wear Clothing,Fashion
+Retro-futuristic Clothing,Fashion
+Rockabilly Clothing,Fashion
+Romantic Clothing,Fashion
+Safari-inspired Clothing,Fashion
+Sci-fi Clothing,Fashion
+Sportswear Clothing,Fashion
+Steampunk Clothing,Fashion
+Street Goth Clothing,Fashion
+Sustainable Clothing,Fashion
+Swinging Sixties Clothing,Fashion
+Techwear Clothing,Fashion
+Urban Chic Clothing,Fashion
+Victorian-era Clothing,Fashion
+Vintage Clothing,Fashion
+Western Clothing,Fashion
+Y2K Clothing,Fashion
+Athleisure Clothing,Fashion
+Collegiate,Fashion
+Glam Rock,Fashion
+Normcore,Fashion
+Rave Wear,Fashion
+Workwear,Fashion
+Diagonal Composition,Composição
+Juxtaposition,Composição
+Extreme Close-Up,Composição
+Split-Perspective,Composição
+Neo-Vintage Fusion,Fashion
+Solarpunk Chic,Fashion
+Data Aesthetic Clothing,Fashion
+Oversized clothing,Fashion
+Cottagecore Clothing,Fashion
+Beachwear Clothing,Fashion
+Streetwear Clothing,Fashion
+Dandy Style Clothing,Fashion
+Hypebeast Clothing,Fashion
+Effortless Chic clothing,Fashion
+E-Girl Style Clothing,Fashion
+Gender-fluid Fashion,Fashion
+Hippie Clothing,Fashion
+E-Boy Style Clothing,Fashion
+Japanese Street Fashion,Fashion
+Dark Academia Clothing,Fashion
+Backlit Silhouette,Luzes
+Low Key,Cameras
+Vignette,Cameras
+1990s Documentary Film,Cameras
+1940s retro sci-fi film,Cameras
+Ektachrome film still,Cameras
+35mm Cinematic Shot,Cameras
+Kodachrome film,Cameras
+Documentary film,Cameras
+Technicolor film,Cameras
+AGFA vista film,Cameras
+Fujifilm Superia 400,Cameras
+Lomography Color Negative 800,Cameras
+CineStill 800T,Cameras
+Fujichrome Velvia 50,Cameras
+Kodak Ektar 100,Cameras
+Kodak Portra 400,Cameras
+Kodak Gold 200,Cameras
+Insta360,Cameras
+Grainy Film Negative,Cameras
+Magical film still,Cameras
+Shot From Behind,Composição
+Tilted Angle Shot,Composição
+Medium Side-angle Shot,Composição
+Centered View,Composição
+Eye-Level Composition,Composição
+Off-Center,Composição
+Medium-Full Shot,Composição
+Full-Body Shot,Composição
+Isolated on White,Cores
+[Blue] Side Lighting,Luzes
+Natural Brown Tones,Cores
+Muted Naturals' coloring,Cores
+Scarlet/Cerulean,Cores
+Earthy palette,Cores
+Jewel-toned palette,Cores
+Isolated on Black,Cores
+Burnt Orange and Periwinkle Azure,Cores
+Paisley Maxi,Cores
+Floral Maxi,Cores
+Tropical Brights,Cores
+Soft Blues and Yellows,Cores
+Moody Dark Tones,Cores
+Smoky Grays,Cores
+Cool Pastels,Cores
+Vivid Pop Colors,Cores
+Sepia Tones,Cores
+Forest Greens,Cores
+Cyberpunk Neon,Cores
+Sunset Hues,Cores
+Pink-Purple-Blue,Cores
+Navy and Orange,Cores
+Indigo and Lavender,Cores
+Light Blue and Crimson Pink,Cores
+Marigold and Dark Brown,Cores
+Purple and Green,Cores
+Blue,Cores
+Red,Cores
+Yellow,Cores
+Blue and Brown,Cores
+Brown-Tan-Orange,Cores
+Brown-Mustard-Yellow-Green,Cores
+Plum-Purple-Viola-Seafoam-Green,Cores
+Blue-Red-Yellow,Cores
+Muted Yellow,Cores
+Green and Gray,Cores
+Clear Sky,Mood
+Sunrise,Mood
+Sunset,Mood
+Morning Mist,Mood
+Partly Cloudy,Mood
+Rainy,Mood
+Snowy,Mood
+Cloudy,Mood
+Foggy,Mood
+Hazey,Mood
+Twilight,Mood
+Night,Mood
+Misty Atmosphere,Mood
+Evening,Mood
+Spring,Mood
+Summer,Mood
+Winter,Mood
+Linen,Materiais
+Nylon,Materiais
+Hemp,Materiais
+Copper,Materiais
+Mithril,Materiais
+Quartz,Materiais
+Aluminium,Materiais
+Bamboo,Materiais
+Fiberglass,Materiais
+Neoprene,Materiais
+Icepunk Style,Estilos
+Gen Z Maximalism,Estilos
+Goofcore Style,Estilos
+Celtic Aesthetic,Estilos
+Cabincore Aesthetic,Estilos
+Barbiecore Aesthetic,Estilos
+Bastardcore Aesthetic,Estilos
+Australian Outback Aesthetic,Estilos
+Vintage Style,Estilos
+Victorian Style,Estilos
+Vibrant,Modificador
+Utopian Style,Estilos
+Urban Style,Estilos
+Synthwave,Estilos
+Surrealism,Estilos
+Street Art,Estilos
+Stained glass,Estilos
+Sleek,Modificador
+Satirical Style,Estilos
+Retro Futurism,Estilos
+Retro Style,Estilos
+Renaissance,Estilos
+Realistic,Modificador
+Postmodern,Estilos
+Neo-Classical,Estilos
+Naturalistic,Estilos
+Minimalistic,Estilos
+Iridescent,Estilos
+Impressionistic,Estilos
+Holographic,Estilos
+High-tech,Estilos
+Grunge,Estilos
+Graffiti,Estilos
+Glitch,Estilos
+Fractal,Estilos
+Folk art Style,Estilos
+Fantasy,Estilos
+Dadaism,Estilos
+Cubism,Estilos
+Cosmic Style,Estilos
+Conceptual Style,Estilos
+Collage,Estilos
+Classic Style,Estilos
+Byzantine Style,Estilos
+Baroque Style,Estilos
+Acid,Estilos
+Fauvism,Estilos
+Fine Art,Estilos
+Geometric,Estilos
+Contemporary,Estilos
+Kaleidoscopic,Estilos
+Modern,Estilos
+Pop Art,Estilos
+Psychedelic,Estilos
+Rustic,Estilos
+Neumorphism,Estilos
+Glassmorphism,Estilos
+Abstract,Estilos
+Art Deco,Estilos
+Elfpunk,Estilos
+Biofuturism,Estilos
+Technofuturism,Estilos
+Pastelfuturism,Estilos
+Witchcore,Estilos
+Solarpunk,Estilos
+Dieselpunk,Estilos
+Avant-garde,Estilos
+Cybergrunge,Estilos
+Vaporwave,Estilos
+Spy Fiction,Estilos
+Neo-Tokyo,Estilos
+Steampunk,Estilos
+Cyberpunk,Estilos
+Scifi,Estilos
+Futuristic,Estilos
+Industrial Aesthetic,Estilos
+Autumn Aesthetic,Estilos
+Artificial Nature Aesthetic,Estilos
+Arcade Aesthetic,Estilos
+Animecore Aesthetic,Estilos
+Adventurecore,Estilos
+Ancient Egypt Aesthetic,Estilos
+Alien Aesthetic,Estilos
+Zoomorphic,Estilos
+Watercolor,Estilos
+Afrofuturism,Estilos
+Hyperrealistic,Modificador
