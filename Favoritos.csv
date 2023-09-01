@@ -41,8 +41,10 @@ Carbon Fiber,Materiais
 Concrete,Materiais
 Fur,Materiais
 Hardsurface,Materiais
+Plastic,Materiais
 Rubber,Materiais
 Sand,Materiais
+Silicone,Materiais
 Abandoned building,Locais
 Alien planet landscape,Locais
 Ancient ruins,Locais
@@ -94,12 +96,14 @@ Minimalist Clothing,Fashion
 Sci-fi Clothing,Fashion
 Sportswear Clothing,Fashion
 Techwear Clothing,Fashion
+Extreme Close-Up,Composição
 Oversized clothing,Fashion
 Streetwear Clothing,Fashion
 Hypebeast Clothing,Fashion
 Low Key,Cameras
 35mm Cinematic Shot,Cameras
 Technicolor film,Cameras
+Shot From Behind,Composição
 Centered View,Composição
 Medium-Full Shot,Composição
 Earthy palette,Cores
@@ -111,22 +115,47 @@ Brown-Mustard-Yellow-Green,Cores
 Morning Mist,Mood
 Summer,Mood
 Nylon,Materiais
+Sleek,Modificador
+Biofuturism,Estilos
 Hyperrealistic,Modificador
 Cinematic,Modificador
 Intricate Detail,Modificador
 Perfect Detailed Face,Modificador
 Remarkable Textures,Modificador
 Unreal Engine 5,Modificador
+National Geographic,Modificador
 Otherworldly,Modificador
 Chrome,Materiais
 Translucent,Materiais
+Frosted,Materiais
 Bioluminescent,Materiais
+Epic Composition,Composição
 Matte,Materiais
 Rough,Materiais
+Smooth Material,Materiais
 Maze,Locais
 Bismuth,Materiais
+Chiseled Stone,Materiais
 Photo,Técnica
 Animation,Técnica
 Portrait,Técnica
 ANSI Art,Técnica
 Pixar Animation,Estilos
+Female,Sujeitos
+Elderly Person,Sujeitos
+Child,Sujeitos
+Astronaut,Sujeitos
+Steven Belledin,Artistas
+Roger Dean,Artistas
+Clint Langley,Artistas
+James Gurney,Artistas
+Michael Whelan,Artistas
+H. R. Giger,Artistas
+Laurie Lipton,Artistas
+Emil Melmoth,Artistas
+Michael Hutter,Artistas
+Caribbean Futurism,Estilos
+Hasui Kawase,Artistas
+Iris van Herpen,Artistas
+Symmetrical,Modificador
+Burning Man Aesthetics,Estilos
