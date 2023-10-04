@@ -1,4 +1,233 @@
 token,tag
+Leaves,Natureza
+Autumn,Natureza
+Twigs,Natureza
+Alpha Centauri,Natureza
+Proxima Centauri,Natureza
+Gamma-Ray Burst,Natureza
+Milky Way,Natureza
+Andromeda Galaxy,Natureza
+Brown Dwarf,Natureza
+Supernova,Natureza
+Protostar,Natureza
+Orion Nebula,Natureza
+Cosmic Microwave,Natureza
+Red Giant,Natureza
+Dark Energy,Natureza
+Exoplanet,Natureza
+Nebula,Natureza
+Wormhole,Natureza
+Asteroid,Natureza
+Comet,Natureza
+Quasar,Natureza
+Meteor,Natureza
+Black Hole,Natureza
+Moon,Natureza
+Jupiter,Natureza
+Uranus,Natureza
+Saturn,Natureza
+Sun,Natureza
+Mercury,Natureza
+Neptune,Natureza
+Venus,Natureza
+Earth,Natureza
+Mars,Natureza
+River,Natureza
+Lake,Natureza
+Constellation,Natureza
+Canyon,Natureza
+Cave,Natureza
+Mountain,Natureza
+Swamp,Natureza
+Lotus,Natureza
+Azalea,Natureza
+Sunflower,Natureza
+Chrysanthemum,Natureza
+Tulip,Natureza
+Daisy,Natureza
+Lavender,Natureza
+Hyacinth,Natureza
+Lily,Natureza
+Orchid,Natureza
+Daffodil,Natureza
+Rose,Natureza
+Poinsettia,Natureza
+Snapdragon,Natureza
+Violet,Natureza
+Hibiscus,Natureza
+Rhododendron,Natureza
+Peony,Natureza
+Hydrangea,Natureza
+Amaryllis,Natureza
+Death Cap,Natureza
+Hen of the Woods,Natureza
+Fly Agaric,Natureza
+Turkey Tail,Natureza
+Button Mushroom,Natureza
+Porcini,Natureza
+Chanterelle,Natureza
+Agaricus,Natureza
+Maitake,Natureza
+Portobello,Natureza
+Oyster Mushroom,Natureza
+Truffle,Natureza
+Mushroom,Natureza
+Yeast,Natureza
+Reishi,Natureza
+Morel,Natureza
+Shiitake,Natureza
+Cedar,Natureza
+Sycamore,Natureza
+Sequoia,Natureza
+Palm,Natureza
+Bamboo,Natureza
+Birch,Natureza
+Fern,Natureza
+Ivy,Natureza
+Pine,Natureza
+Oak,Natureza
+Maple,Natureza
+Moss,Natureza
+Sage,Natureza
+Mint,Natureza
+Aloe Vera,Natureza
+Cactus,Natureza
+Dandelion,Natureza
+Venus Flytrap,Natureza
+Tea Plant,Natureza
+Rubber Plant,Natureza
+Coffee Plant,Natureza
+Bonsai,Natureza
+Ficus,Natureza
+Solar Eclipse,Natureza
+Comet,Natureza
+Mirage,Natureza
+Tsunami,Natureza
+Flood,Natureza
+Northern Lights,Natureza
+Supernova,Natureza
+Lunar Eclipse,Natureza
+Rockfall,Natureza
+Solar Flare,Natureza
+Thunderstorm,Natureza
+Avalanche,Natureza
+Snowstorm,Natureza
+Acid Rain,Natureza
+Wave,Natureza
+Frost,Natureza
+Drought,Natureza
+Coral Bleaching,Natureza
+Wildfire,Natureza
+Sinkhole,Natureza
+Mudflow,Natureza
+Fog,Natureza
+Landslide,Natureza
+Algal Bloom,Natureza
+Sandstorm,Natureza
+Ice Cap,Natureza
+Waterfall,Natureza
+Water Vortex,Natureza
+Rainbow,Natureza
+Geyser,Natureza
+Cyclone,Natureza
+Earthquake,Natureza
+Volcano,Natureza
+Tornado,Natureza
+Aurora Borealis,Natureza
+Lightning,Natureza
+Cartoon,Técnica
+Sprite sheet,Técnica
+Illusion,Técnica
+Blacklight Paint,Técnica
+Mandala,Técnica
+Isometric,Técnica
+Fractal pattern,Técnica
+Needlepoint,Técnica
+Cross Stitch,Técnica
+Embroidery,Técnica
+Tie Dye,Técnica
+Marbling,Técnica
+Hydro-Dipping,Técnica
+Mosaic,Técnica
+Design Concept,Técnica
+Gouache Illustration,Técnica
+Lacquer Art,Técnica
+Stencil,Técnica
+Matte Painting,Técnica
+Map,Técnica
+ANSI Art,Técnica
+Vector Art,Técnica
+Offset Print,Técnica
+Line Work,Técnica
+Vector Line Art,Técnica
+Single Line Drawing,Técnica
+Ink Drawing,Técnica
+Pencil Drawing,Técnica
+Hand Carved,Técnica
+Portrait,Técnica
+Knitting,Técnica
+3D,Técnica
+Web Interface,Técnica
+Sculpture,Técnica
+Animation,Técnica
+Stamp Print,Técnica
+Illustration,Técnica
+Photo,Técnica
+Drawing,Técnica
+Photography,Técnica
+Oil Painting,Técnica
+Pixel Art,Técnica
+Digital Painting,Técnica
+Concept Art,Técnica
+Chibi,Estilos
+Aztec Art Style,Estilos
+Arcology Style,Estilos
+2001 A Space Odyssey Style,Estilos
+Wong Kar-wai Style,Estilos
+Michael Bay Style,Estilos
+Mel Brooks Style,Estilos
+Terry Gilliam Style,Estilos
+Ingmar Bergman Style,Estilos
+Clint Eastwood Style,Estilos
+Alfred Hitchcock Style,Estilos
+Christopher Nolan Style,Estilos
+Stanley Kubrick Style,Estilos
+Quentin Tarantino Style,Estilos
+Wes Anderson Style,Estilos
+Hyperbolic Expression,Estilos
+Algeapunk,Estilos
+Post-internet Aesthetics,Estilos
+Carpetpunk,Estilos
+Burning Man Aesthetics,Estilos
+MythoFuturism,Estilos
+AfroFuturism,Estilos
+CyberFuturism,Estilos
+SpaceFuturism,Estilos
+NanoFuturism,Estilos
+EcoFuturism,Estilos
+Caribbean Futurism,Estilos
+Disney Animation Style,Estilos
+Pixar Animation,Estilos
+Maximalist,Estilos
+Neonpunk,Estilos
+Post-Cyberpunk,Estilos
+Rococopunk,Estilos
+Oceanpunk,Estilos
+Islandpunk,Estilos
+Steelpunk,Estilos
+Atompunk,Estilos
+Coalpunk,Estilos
+Decopunk,Estilos
+Cyber-noir,Estilos
+Biopunk,Estilos
+Forestpunk,Estilos
+Pointillism Aesthetic,Estilos
+Pan-African Aesthetic,Estilos
+Shin-hanga Aesthetic,Estilos
+Aboriginal Art Aesthetic,Estilos
+Arte Povera Aesthetic,Estilos
+Vorticism Aesthetic,Estilos
+Furry Art Aesthetic,Estilos
 Afrofuturism,Estilos
 Watercolor,Estilos
 Zoomorphic,Estilos
@@ -55,9 +284,7 @@ Glitch,Estilos
 Graffiti,Estilos
 Grunge,Estilos
 High-tech,Estilos
-Holographic,Estilos
 Impressionistic,Estilos
-Iridescent,Estilos
 Minimalistic,Estilos
 Naturalistic,Estilos
 Neo-Classical,Estilos
@@ -82,6 +309,7 @@ Celtic Aesthetic,Estilos
 Goofcore Style,Estilos
 Gen Z Maximalism,Estilos
 Icepunk Style,Estilos
+Epic Composition,Composição
 Full-Body Shot,Composição
 Medium-Full Shot,Composição
 Off-Center,Composição
@@ -112,6 +340,9 @@ High Angle,Composição
 Low Angle,Composição
 Aerial Drone Photo,Composição
 Establishing Shot Composition,Composição
+Super Resolution Microscopy,Cameras
+Magnification,Cameras
+Microscopy,Cameras
 Magical film still,Cameras
 Grainy Film Negative,Cameras
 Insta360,Cameras
@@ -152,10 +383,350 @@ Tiltshift,Cameras
 Fisheye,Cameras
 Shot with TelePhoto Lens,Cameras
 Depth of Field,Cameras
+Stock Photography,Modificador
+Cinematic Still,Modificador
+Symmetrical,Modificador
+Ray Traced,Modificador
+Otherworldly,Modificador
+Ambient Occlusion,Modificador
+High Contrast,Modificador
+"Insane Detail,",Modificador
+Deep Focus,Modificador
+Ultra-Detailed,Modificador
+National Geographic,Modificador
+Trending On CGSociety,Modificador
+Trending On ArtStation,Modificador
+Smooth V-Ray Render,Modificador
+Quixel Megascans,Modificador
+Cryengine,Modificador
+Vray Render,Modificador
+Unreal Engine 5,Modificador
+Octane Render,Modificador
+Remarkable Textures,Modificador
+Perfect Detailed Face,Modificador
+Intricate Detail,Modificador
+HDR,Modificador
+Cinematic,Modificador
+Award Winning,Modificador
 Hyperrealistic,Modificador
 Realistic,Modificador
 Sleek,Modificador
 Vibrant,Modificador
+Abomination,Sujeitos
+Robot,Sujeitos
+Alien,Sujeitos
+Wizard,Sujeitos
+Dragon,Sujeitos
+Fairy,Sujeitos
+Mermaid,Sujeitos
+Dinosaur,Sujeitos
+Lizard,Sujeitos
+Don Vito Corleone,Sujeitos
+Darth Vader,Sujeitos
+John Wick,Sujeitos
+T'Challa (Black Panther),Sujeitos
+Thor,Sujeitos
+Gandalf,Sujeitos
+Mulan,Sujeitos
+Deadpool,Sujeitos
+Optimus Prime,Sujeitos
+The Terminator,Sujeitos
+Jack Sparrow,Sujeitos
+Albus Dumbledore,Sujeitos
+Marty McFly,Sujeitos
+Pikachu,Sujeitos
+Rapunzel,Sujeitos
+Robin Hood,Sujeitos
+R2-D2,Sujeitos
+Black Widow,Sujeitos
+Aang (Avatar),Sujeitos
+Thanos,Sujeitos
+Tyrion Lannister,Sujeitos
+Gollum,Sujeitos
+Obi-Wan Kenobi,Sujeitos
+Mick Jagger,Sujeitos
+Sylvester Stallone,Sujeitos
+Marilyn Monroe,Sujeitos
+Tom Hanks,Sujeitos
+Keanu Reeves,Sujeitos
+Quentin Tarantino,Sujeitos
+Lycosa Spider,Sujeitos
+Grammostola Spider,Sujeitos
+Latrodectus Spider,Sujeitos
+Spider,Sujeitos
+Wasp,Sujeitos
+Stick Insect,Sujeitos
+Silverfish,Sujeitos
+Termite,Sujeitos
+Moth,Sujeitos
+Mosquito,Sujeitos
+Millipede,Sujeitos
+Praying Mantis,Sujeitos
+Mantis,Sujeitos
+Mayfly,Sujeitos
+Firefly,Sujeitos
+Fly,Sujeitos
+Grasshopper,Sujeitos
+Ladybug,Sujeitos
+Cricket,Sujeitos
+Beetle,Sujeitos
+Cockroach,Sujeitos
+Dragonfly,Sujeitos
+Caterpillar,Sujeitos
+Bee,Sujeitos
+Butterfly,Sujeitos
+Centipede,Sujeitos
+Cicada,Sujeitos
+Ant,Sujeitos
+Age 100,Sujeitos
+Age 95,Sujeitos
+Age 90,Sujeitos
+Age 85,Sujeitos
+Age 80,Sujeitos
+Age 75,Sujeitos
+Age 70,Sujeitos
+Age 65,Sujeitos
+Age 60,Sujeitos
+Age 55,Sujeitos
+Age 50,Sujeitos
+Age 45,Sujeitos
+Age 40,Sujeitos
+Age 35,Sujeitos
+Age 30,Sujeitos
+Age 25,Sujeitos
+Age 20,Sujeitos
+Age 15,Sujeitos
+Age 10,Sujeitos
+Age 5,Sujeitos
+Harry Potter,Sujeitos
+Neo (The Matrix),Sujeitos
+Batman,Sujeitos
+Hannibal Lecter,Sujeitos
+Princess Leia,Sujeitos
+King Arthur,Sujeitos
+The Joker,Sujeitos
+Lara Croft,Sujeitos
+Katniss Everdeen,Sujeitos
+Captain America,Sujeitos
+Tony Stark (Iron Man),Sujeitos
+Indiana Jones,Sujeitos
+Wonder Woman,Sujeitos
+James Bond,Sujeitos
+Superman,Sujeitos
+Spider-Man,Sujeitos
+Luke Skywalker,Sujeitos
+Sherlock Holmes,Sujeitos
+Kanye West,Sujeitos
+Snoop Dogg,Sujeitos
+George Clooney,Sujeitos
+Cristiano Ronaldo,Sujeitos
+Joe Biden,Sujeitos
+Lionel Messi,Sujeitos
+Vladimir Putin,Sujeitos
+Oprah Winfrey,Sujeitos
+Paul McCartney,Sujeitos
+Pope Francis,Sujeitos
+Mandela,Sujeitos
+Taylor Swift,Sujeitos
+Michael Jackson,Sujeitos
+Tom Cruise,Sujeitos
+Brad Pitt,Sujeitos
+Johnny Depp,Sujeitos
+Morgan Freeman,Sujeitos
+Will Smith,Sujeitos
+Elon Musk,Sujeitos
+Mark Zuckerberg,Sujeitos
+Bill Gates,Sujeitos
+Steve Jobs,Sujeitos
+Donald Trump,Sujeitos
+Albert Einstein,Sujeitos
+Elvis Presley,Sujeitos
+Dalai Lama,Sujeitos
+Queen Elizabeth,Sujeitos
+Lady Gaga,Sujeitos
+Nicole Kidman,Sujeitos
+Michelle Obama,Sujeitos
+Boris Johnson,Sujeitos
+John F Kennedy,Sujeitos
+Mother Teresa,Sujeitos
+Mahatma Gandhi,Sujeitos
+Abraham Lincoln,Sujeitos
+Chris Hemsworth,Sujeitos
+Polar Bear,Sujeitos
+Shark,Sujeitos
+Snail,Sujeitos
+Ferret,Sujeitos
+Guinea Pig,Sujeitos
+Starfish,Sujeitos
+Crab,Sujeitos
+Lobster,Sujeitos
+Gecko,Sujeitos
+Iguana,Sujeitos
+Finch,Sujeitos
+Hummingbird,Sujeitos
+Hyena,Sujeitos
+Meerkat,Sujeitos
+Otter,Sujeitos
+Beaver,Sujeitos
+Antelope,Sujeitos
+Hedgehog,Sujeitos
+Fox,Sujeitos
+Sea Turtle,Sujeitos
+Jellyfish,Sujeitos
+Squid,Sujeitos
+Puma,Sujeitos
+Cheetah,Sujeitos
+Hamster,Sujeitos
+Turkey,Sujeitos
+Peacock,Sujeitos
+Platypus,Sujeitos
+Armadillo,Sujeitos
+Octopus,Sujeitos
+Rhinoceros,Sujeitos
+Zebra,Sujeitos
+Orangutan,Sujeitos
+Butterfly,Sujeitos
+Gorilla,Sujeitos
+Horse,Sujeitos
+Rabbit,Sujeitos
+Chameleon,Sujeitos
+Owl,Sujeitos
+Stingray,Sujeitos
+Seahorse,Sujeitos
+Penguin,Sujeitos
+Crocodile,Sujeitos
+Kangaroo,Sujeitos
+Snake,Sujeitos
+Wolf,Sujeitos
+Bear,Sujeitos
+Falcon,Sujeitos
+Whale,Sujeitos
+Parrot,Sujeitos
+Dolphin,Sujeitos
+Giraffe,Sujeitos
+Lion,Sujeitos
+Tiger,Sujeitos
+Cat,Sujeitos
+Elephant,Sujeitos
+Dog,Sujeitos
+Painter,Sujeitos
+Animator,Sujeitos
+Environmentalist,Sujeitos
+Architect,Sujeitos
+Tour Guide,Sujeitos
+Botanist,Sujeitos
+Florist,Sujeitos
+Mechanic,Sujeitos
+Electrician,Sujeitos
+Plumber,Sujeitos
+Historian,Sujeitos
+Vlogger,Sujeitos
+Illustrator,Sujeitos
+Magician,Sujeitos
+Paramedic,Sujeitos
+Fashion Designer,Sujeitos
+Yogi,Sujeitos
+Fitness Trainer,Sujeitos
+Real Estate Agent,Sujeitos
+Librarian,Sujeitos
+Construction Worker,Sujeitos
+Hairdresser,Sujeitos
+Tailor,Sujeitos
+Fisherman,Sujeitos
+Miner,Sujeitos
+Surfer,Sujeitos
+Skater,Sujeitos
+Barista,Sujeitos
+Filmmaker,Sujeitos
+Model,Sujeitos
+Astronaut,Sujeitos
+Pilot,Sujeitos
+Comedian,Sujeitos
+Journalist,Sujeitos
+Activist,Sujeitos
+Influencer,Sujeitos
+Programmer,Sujeitos
+Writer,Sujeitos
+Photographer,Sujeitos
+Actor,Sujeitos
+Farmer,Sujeitos
+Scientist,Sujeitos
+Engineer,Sujeitos
+Veterinarian,Sujeitos
+Soldier,Sujeitos
+Chef,Sujeitos
+Dancer,Sujeitos
+Teacher,Sujeitos
+Student,Sujeitos
+Firefighter,Sujeitos
+Police Officer,Sujeitos
+Musician,Sujeitos
+Businessperson,Sujeitos
+Nurse,Sujeitos
+Athlete,Sujeitos
+Child,Sujeitos
+Elderly Person,Sujeitos
+Doctor,Sujeitos
+Female,Sujeitos
+Directing,Poses
+Pointing,Poses
+Silhouette Pose,Poses
+Holding Object,Poses
+Lying Down,Poses
+Hugging,Poses
+Meditative Pose,Poses
+Crouching,Poses
+Reclining Position,Poses
+Jumping in Mid-Air,Poses
+Sitting Cross-Legged,Poses
+Dancing Pose,Poses
+Kneeling Pose,Poses
+Hands in Pockets,Poses
+Running Action Shot,Poses
+Fetal Position,Poses
+Over-The-Shoulder Look,Poses
+Looking Down,Poses
+Leaning Forward,Poses
+Looking Up,Poses
+Arms Crossed,Poses
+Standing Profile,Poses
+Squatting,Poses
+Relaxed Seated,Poses
+Threeasfour,Fashion
+Burberry,Fashion
+Diesel,Fashion
+Off-White,Fashion
+Balmain,Fashion
+Moschino,Fashion
+Yeezy,Fashion
+Thierry Mugler,Fashion
+Louis Vuitton,Fashion
+Balenciaga,Fashion
+Issey Miyake,Fashion
+Gareth Pugh,Fashion
+Rick Owens,Fashion
+Stella McCartney,Fashion
+Vivienne Westwood,Fashion
+Gucci,Fashion
+Aitor Throup,Fashion
+Martin Margiela,Fashion
+Alexander McQueen,Fashion
+Calvin Klein,Fashion
+Carolina Herrera,Fashion
+Jean Paul Gaultier,Fashion
+Tom Ford,Fashion
+Christian Dior,Fashion
+Coco Chanel,Fashion
+Dolce Gabbana,Fashion
+Tommy Hilfiger,Fashion
+Marc Jacobs,Fashion
+Pierre Cardin,Fashion
+Giorgio Armani,Fashion
+Walter Van Beirendonck,Fashion
+Thom Browne,Fashion
+Ingrid Baars,Fashion
+Virgil Abloh,Fashion
+Iris van Herpen,Fashion
 Dark Academia Clothing,Fashion
 Japanese Street Fashion,Fashion
 E-Boy Style Clothing,Fashion
@@ -227,6 +798,12 @@ Avant-garde Clothing,Fashion
 Artistic Clothing,Fashion
 Androgynous Clothing,Fashion
 Activewear Clothing,Fashion
+liquid foil gradient,Cores
+light silver and light gold,Cores
+light white and light amber,Cores
+Turquoise,Cores
+Mint Color,Cores
+Indigo Color,Cores
 Green and Gray,Cores
 Muted Yellow,Cores
 Blue-Red-Yellow,Cores
@@ -273,6 +850,79 @@ Teal and Orange,Cores
 Redscale Coloring,Cores
 Mute Colors,Cores
 Soft Pastel Tones,Cores
+Zhangye Danxia Geopark China,Locais
+Great Ocean Road Australia,Locais
+Amalfi Coast Italy,Locais
+Forbidden City China,Locais
+Blue Lagoon Iceland,Locais
+Lençóis Maranhenses,Locais
+Tamil Nadu India,Locais
+Praia dos Carneiros,Locais
+Atacama,Locais
+Giza Egypt,Locais
+Sheikh Zayed Grand Mosque Abu Dhabi,Locais
+Rio de Janeiro,Locais
+Jericoacoara,Locais
+Fernando de Noronha,Locais
+Trancoso,Locais
+Pantanal,Locais
+Chapada Diamantina,Locais
+Canada,Locais
+Madagascar,Locais
+Lofoten Islands,Locais
+Cook Islands,Locais
+Aitutaki Lagoon,Locais
+Torres del Paine,Locais
+New Zealand,Locais
+Venezuela,Locais
+Lake Tekapo,Locais
+Raja Ampat,Locais
+Indonesia,Locais
+Norway,Locais
+Banff National Park,Locais
+Mount Roraima,Locais
+Bulgaria,Locais
+Seychelles,Locais
+Rila Monastery,Locais
+Easter Island,Locais
+Morocco,Locais
+Chefchaouen,Locais
+Switzerland,Locais
+Bhutan,Locais
+Wulingyuan Scenic Area,Locais
+Faroe Islands,Locais
+Sossusvlei,Locais
+Gimmelwald,Locais
+Chile,Locais
+Namibia,Locais
+Plitvice Lakes National Park,Locais
+Machu Picchu,Locais
+Venice,Locais
+Santorini,Locais
+Antarctica,Locais
+Cappadocia,Locais
+Antelope Canyon,Locais
+Uyuni Salt Flat,Locais
+Hạ Long Bay,Locais
+Petra,Locais
+Cliffs of Moher,Locais
+Great Barrier Reef,Locais
+Milford Sound / Piopiotahi,Locais
+Socotra,Locais
+Pamukkale,Locais
+Old Bagan,Locais
+Bora Bora,Locais
+Grand Canyon,Locais
+Paris,Locais
+France,Locais
+Galápagos Islands,Locais
+Alaska,Locais
+Denali National Park,Locais
+South Africa,Locais
+Zhangye National Geopark,Locais
+Lake Bled,Locais
+Cape Town,Locais
+Maze,Locais
 Whimsical circus tent,Locais
 Virtual reality gaming arena,Locais
 Vintage train car,Locais
@@ -444,10 +1094,11 @@ Beaux-Arts Architecture,Arquitetura
 Bauhaus Architecture,Arquitetura
 Baroque Architecture,Arquitetura
 Asteroid Base Architecture,Arquitetura
-Artificial Intelligence Architecture,Arquitetura
 Art Nouveau Architecture,Arquitetura
 Art Deco Architecture,Arquitetura
 Alien Architecture,Arquitetura
+Sparks,Luzes
+Lightning,Luzes
 [Blue] Side Lighting,Luzes
 Backlit Silhouette,Luzes
 Artificial Light,Luzes
@@ -469,6 +1120,19 @@ Cold Blue Light,Luzes
 Backlight,Luzes
 Ambient Light,Luzes
 Studio Lighting,Luzes
+Tiny,Mood
+Gigantic,Mood
+Massive,Mood
+Compact,Mood
+Big,Mood
+Colossal,Mood
+Small,Mood
+Immense,Mood
+Insane,Mood
+Nonsense,Mood
+Extraterrestrial,Mood
+Nostalgic,Mood
+Mystical,Mood
 Winter,Mood
 Summer,Mood
 Spring,Mood
@@ -530,6 +1194,53 @@ Bored,Mood
 Appetizing,Mood
 Angry,Mood
 Adventurous,Mood
+Fuzzy,Materiais
+Fluffy,Materiais
+Wet,Materiais
+Shiny,Materiais
+Entangled,Materiais
+Pearlescent,Materiais
+Glare,Materiais
+Fat,Materiais
+Bumpy,Materiais
+Rubber Bands,Materiais
+Sponge,Materiais
+Slime,Materiais
+Ferrofluid,Materiais
+Circuit boards,Materiais
+Cables,Materiais
+Moss,Materiais
+Wires,Materiais
+Plasma,Materiais
+Nuclear Waste,Materiais
+Lava,Materiais
+Foil,Materiais
+Shrink Wrap,Materiais
+Cotton,Materiais
+Alabaster,Materiais
+Terracotta,Materiais
+Chiseled Stone,Materiais
+Laminated Timber,Materiais
+Bone,Materiais
+Tourmaline,Materiais
+Bismuth,Materiais
+Smooth Material,Materiais
+Rough,Materiais
+Granular,Materiais
+Glimmering,Materiais
+Fluorescent,Materiais
+Polished,Materiais
+Reflective Material,Materiais
+Luminous,Materiais
+Sparkling,Materiais
+Matte,Materiais
+Bioluminescent,Materiais
+Frosted,Materiais
+Translucent,Materiais
+Glossy,Materiais
+Chrome,Materiais
+Holographic,Materiais
+Iridescent,Materiais
 Neoprene,Materiais
 Fiberglass,Materiais
 Bamboo,Materiais
@@ -574,3 +1285,117 @@ Cloth,Materiais
 Ceramic,Materiais
 Carbon Fiber,Materiais
 Bronze,Materiais
+Alan Bean,Artistas
+Michael Bay,Artistas
+Richard Corben,Artistas
+Charles Burns,Artistas
+Aaron James Draplin,Artistas
+Aaron Blaise,Artistas
+Chris Dyer,Artistas
+Tim Doyle,Artistas
+Bob Clampett,Artistas
+Robert Williams,Artistas
+Arthur Adams,Artistas
+Benedick Bana,Artistas
+David Welker,Artistas
+Holton Rower,Artistas
+Edward Wadsworth,Artistas
+Kenny Scharf,Artistas
+Raphael Perez,Artistas
+George Underwood,Artistas
+George Tooker,Artistas
+Vladimir Kush,Artistas
+Abraham Ortelius,Artistas
+Titus Kaphar,Artistas
+Paul Nash,Artistas
+Aaron Jasinski,Artistas
+Peter Howson,Artistas
+Ed Mell,Artistas
+Tomasz Alen Kopera,Artistas
+Ed Paschke,Artistas
+David Ligare,Artistas
+Felipe Pantone,Artistas
+Rob Gonsalves,Artistas
+Judy Chicago,Artistas
+Declan Shalvey,Artistas
+Alex Gross,Artistas
+Hajime Sorayama,Artistas
+Ron Walotsky,Artistas
+Mark Henson,Artistas
+Alex Grey,Artistas
+Al Williamson,Artistas
+Dan Mumford,Artistas
+Francois Schuiten,Artistas
+Emek Golan,Artistas
+James R. Eads,Artistas
+Matt Groening,Artistas
+Dan McPharlin,Artistas
+Alex Schomburg,Artistas
+Kelly Freas,Artistas
+Scott Listfield,Artistas
+Emiliano Ponzi,Artistas
+Katsushika Hokusai,Artistas
+Mati Klarwein,Artistas
+Jimmy Marble,Artistas
+Hasui Kawase,Artistas
+Victor Moscoso,Artistas
+Michelangelo,Artistas
+Leonardo Da Vinci,Artistas
+Salvador Dali,Artistas
+Monet,Artistas
+Rene Magritte,Artistas
+Van Gogh,Artistas
+Yayoi Kusama,Artistas
+Sandro Botticelli,Artistas
+Richard Neutra,Artistas
+Louis Sullivan,Artistas
+Antoni Gaudi,Artistas
+Hieronymus Bosch,Artistas
+Bruegel,Artistas
+Michael Hutter,Artistas
+Emil Melmoth,Artistas
+Gustave Doré,Artistas
+Zdzisław Beksiński art style,Artistas
+Laurie Lipton,Artistas
+H. R. Giger,Artistas
+Caravaggio,Artistas
+Edvard Munch,Artistas
+Ilya Repin,Artistas
+Edward Hopper,Artistas
+John Singer Sargent,Artistas
+Michael Whelan,Artistas
+John William Waterhouse,Artistas
+Bouguereau,Artistas
+John Harris,Artistas
+James Gurney,Artistas
+John Blanche,Artistas
+Adrian Smith,Artistas
+Ian Miller,Artistas
+Clint Langley,Artistas
+Frank Frazetta,Artistas
+Roger Dean,Artistas
+Boris Vallejo,Artistas
+Gerald Brom,Artistas
+Lady Pink,Artistas
+Banksy,Artistas
+Shepard Fairey,Artistas
+Marka27,Artistas
+Tracy168,Artistas
+Mare139,Artistas
+Daze Ellis,Artistas
+Jean-Michel Basquiat,Artistas
+Ross Tran,Artistas
+ArtGerm,Artistas
+Greg Rutkowski,Artistas
+Tuomas Korpi,Artistas
+Steven Belledin,Artistas
+James Jean,Artistas
+Victo Ngai,Artistas
+Peter Mohrbacher,Artistas
+Raul Urias,Artistas
+Andy Warhol,Artistas
+Roy Lichtenstein,Artistas
+Pablo Picasso,Artistas
+Wassily Kandinsky,Artistas
+Jackson Pollock,Artistas
+Super Mario,Sujeitos
